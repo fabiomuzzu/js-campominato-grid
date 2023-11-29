@@ -1,12 +1,21 @@
 Ciao ragazzi,
 Esercizio di oggi: Griglia Campo Minato
 nome repo: js-campominato-grid
+
 Consegna
 L'utente clicca su un bottone che genererà una griglia di gioco quadrata (click su un pulsante... cosa dovrà essere chiamata? Quindi cosa dobbiamo definire prima?).
 Ogni cella ha un numero progressivo, da 1 a 100.
 Ci saranno quindi 10 caselle per ognuna delle 10 righe.
+
+Svolgimento:
+1 - Creo funzione per il click
+2 - Creo il pulsante nell'html e gli assegno un id
+3 - Creo funzione per griglia
+
+
 BONUS
 Quando l'utente clicca su ogni cella, la cella cliccata si colora di azzurro ed emetto un messaggio in console con il numero della cella cliccata.
+
 SUPER BONUS
 Aggiungere una select accanto al bottone di generazione, che fornisca una scelta tra tre diversi livelli di difficoltà:
 - con difficoltà 1 => 100 caselle, con un numero compreso tra 1 e 100, divise in 10 caselle per 10 righe;
