@@ -11,7 +11,9 @@ Svolgimento:
 1 - Dichiaro const per il pulsante play
 2 - Creo funzione per il click del pulsante play
 3 - Creo il pulsante nell'html e gli assegno un id
-4 - Creo funzione per griglia
+4 - Creo funzione per creare singola cella
+5 - Recupero l'elemento che contiene la griglia
+6 - Creo ciclo for per creare 100 celle uguali
 
 
 BONUS
