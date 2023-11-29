@@ -8,9 +8,10 @@ Ogni cella ha un numero progressivo, da 1 a 100.
 Ci saranno quindi 10 caselle per ognuna delle 10 righe.
 
 Svolgimento:
-1 - Creo funzione per il click
-2 - Creo il pulsante nell'html e gli assegno un id
-3 - Creo funzione per griglia
+1 - Dichiaro const per il pulsante play
+2 - Creo funzione per il click del pulsante play
+3 - Creo il pulsante nell'html e gli assegno un id
+4 - Creo funzione per griglia
 
 
 BONUS
