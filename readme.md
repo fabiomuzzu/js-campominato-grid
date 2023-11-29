@@ -19,6 +19,11 @@ Svolgimento:
 BONUS
 Quando l'utente clicca su ogni cella, la cella cliccata si colora di azzurro ed emetto un messaggio in console con il numero della cella cliccata.
 
+Svolgimento:
+1 - Faccio un'assegnazione con un eventListener alla cella e gli do:
+1a - una classe contente il colore
+1b - un console log contente il dato del numero 
+
 SUPER BONUS
 Aggiungere una select accanto al bottone di generazione, che fornisca una scelta tra tre diversi livelli di difficoltà:
 - con difficoltà 1 => 100 caselle, con un numero compreso tra 1 e 100, divise in 10 caselle per 10 righe;

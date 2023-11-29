@@ -42,6 +42,5 @@ play_btn.addEventListener('click', function(){
 
         // Appendo la cella alla griglia
         grid.appendChild(square);
-        
     }
 });
