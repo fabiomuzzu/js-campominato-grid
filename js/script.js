@@ -29,6 +29,7 @@ play_btn.addEventListener('click', function(){
         // Assegnazione nuova classe al click della casella
         square.addEventListener('click', function(){
             this.classList.toggle('clicked');
+            console.log(`Il numero della casella è: ${i+1}`);
         })
 
         // Appendo la cella alla griglia
