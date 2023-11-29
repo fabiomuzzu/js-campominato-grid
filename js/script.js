@@ -18,7 +18,15 @@ play_btn.addEventListener('click', function(){
     }
 
     // 5 - Recupero l'elemento che contiene la griglia
-    const grid = document.getElementById('grid');
+    let grid = document.getElementById('grid');
+    
+    
+    // Stringa che permette di non replicare la tabella in loop
+    document.getElementById("grid").innerHTML = "";
+    
+    // Stringa per aggiungere classe di margine alla tabella
+    grid.classList.add('my_margin');
+
 
     // 6 - Creo ciclo for per creare 100 celle uguali
     for(let i=0; i<100; i++){
@@ -34,6 +42,6 @@ play_btn.addEventListener('click', function(){
 
         // Appendo la cella alla griglia
         grid.appendChild(square);
+        
     }
-
 });

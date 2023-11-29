@@ -25,3 +25,7 @@
 .clicked{
     background-color: #00a6ff;
 }
+
+.my_margin{
+    margin: 50px 0;
+}
